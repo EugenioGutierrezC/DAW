@@ -36,4 +36,4 @@ public class Persona {
     public static void fantasma(){
         
     }
-}
+}    
