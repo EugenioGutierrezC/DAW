@@ -32,4 +32,8 @@ public class Persona {
     public static void mostrar(){
         
     }
+    
+    public static void fantasma(){
+        
+    }
 }
