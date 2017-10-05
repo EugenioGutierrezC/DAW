@@ -34,6 +34,6 @@ public class Persona {
     }
     
     public static void fantasma(){
-        System.out.println("Gutierrez");
+        
     }
 }
