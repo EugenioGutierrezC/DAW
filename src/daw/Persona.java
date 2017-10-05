@@ -18,5 +18,10 @@ public class Persona {
         this.nombre = nombre;
         this.apellido = apellido;
         this.edad = edad;
-    }    
+    }
+    
+    
+    public static void main(String[] args) {
+        
+    }
 }
