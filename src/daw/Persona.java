@@ -28,4 +28,8 @@ public class Persona {
     public static void añadir(){
         
     }
+    
+    public static void mostrar(){
+        
+    }
 }
